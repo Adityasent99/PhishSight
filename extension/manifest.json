@@ -1,0 +1,12 @@
+{
+  "manifest_version": 3,
+  "name": "PhishSight",
+  "version": "1.0",
+  "description": "Analyzes URLs for phishing signals",
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "permissions": [
+    "activeTab"
+  ]
+}
